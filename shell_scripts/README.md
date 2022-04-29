@@ -9,7 +9,7 @@ For running the files in your terminal follow the commands
     * Use ```ls``` command to check whether the files are present in the directory
     * Use ```pwd``` command to check whether you are in the right path.
 
-3. Run the file using ```bash```.  
+3. Run the file using ```bash```  
     Running the file using bash command
     
     ```
@@ -20,7 +20,7 @@ For running the files in your terminal follow the commands
     bash ./filename.sh
     ```
 
-4. Permission denied.  
+4. Permission denied  
    If you are getting an error like permission denied. Make the script executable using ```chmod```
    ```
    chmod +x filename.sh
